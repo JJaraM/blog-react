@@ -1,0 +1,175 @@
+a {
+  text-decoration: none !important;
+}
+
+body {
+  background-color: #FFFFFF;
+  background-repeat: repeat;
+  background-position: top left;
+  background-attachment: scroll;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+  position: relative !important;
+}
+
+.navbar {
+  margin-bottom: 0 !important;
+}
+
+.menu-fixed {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  top: 0px;
+}
+
+/*
+.container-fluid {
+  padding-right: 4% !important;
+  padding-left: 4% !important;
+}
+*/
+
+.col-md-4, .col-md-12 {
+  padding-right: 30px !important;
+  padding-left: 30px !important;
+}
+
+.post-home {
+  overflow: hidden;
+  max-width: 100%;
+  border: 1px solid #eaeaea;
+  background-color: #fff;
+  padding: 20px 25px 25px;
+}
+
+.post-home h3, .post-home a, .navigation {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2d2d2d;
+}
+
+.post-home .media-block a {
+  color: #b2b2b2;
+  font-size: 12px;
+}
+
+.post-home .media-block p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.post-home .media-block a.read, .navigation {
+  background: #FFF;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 7px 7px 6px;
+  border: 1px solid #3f92de;
+}
+
+.post-home .media-block a.read:hover, .navigation:hover {
+  background: #3fa8ff;
+}
+
+.post-home .media-block a.read:hover, .navigation:hover {
+  color: #FFF;
+}
+
+.post-home .media-block a.read, .navigation {
+  color: #3fa8ff;
+}
+
+.navigation {
+  position: absolute;
+  width: 97%;
+  padding: 15px;
+  text-align: center;
+}
+
+.navigation a {
+  padding-left: 50%;
+  font-size: 1.3em;
+}
+
+.stripe {
+  padding-top: 10px;
+}
+
+.top-header {
+  background-color: #232323;
+  color: #FFF;
+}
+
+.top-header h1 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+}
+
+.company-name {
+  display: flex;
+}
+
+.company-name-side {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-top: 35px;
+}
+
+.mm {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+
+}
+
+.img-resize {
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+    .col-md-4{width:32.000%;}
+}
+
+.bg-secondary, .btn-secondary, .icon-circle.icon-secondary, .progress-bar-secondary, .te-secondary:before {
+    background-color: #FFFFFF;
+}
+
+.fullheight {
+    height: 100vh;
+    padding-top: 1%;
+    background-image: url(https://csmag-s3-cityscoutmagazin.netdna-ssl.com/wp-content/uploads/2014/08/25061015/optin-bg-table-macbook.jpg);
+}
+
+.bg-default {
+    background: #ff1919;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.big {
+    font-size: 80px;
+}
+
+.title-presentation {
+      padding-top: 15%;
+}
+
+.experience-list {
+  direction:rtl;
+  padding-top: 2%;
+}
+
+.experience-list-left {
+  padding-top: 2%;
+}
